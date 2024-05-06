@@ -969,6 +969,7 @@ header .container .form i {
 }
 .contact-us .container .contact-box form textarea {
     height: 200px;
+    font-family: 'Open Sans', sans-serif;
 }
 .contact-us .container .contact-box form [value="send message"] {
     padding: 20px;
